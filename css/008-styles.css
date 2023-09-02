@@ -1,0 +1,9 @@
+.top-bar {
+    background-color: #fff;
+    box-shadow: -3px -12px 36px 15px #DCDCDC;
+}
+
+.top-nav__links li {
+    display: inline-block;
+
+}

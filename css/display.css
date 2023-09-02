@@ -1,0 +1,20 @@
+.paragraph {
+    width: 600px;
+    padding: 24px;
+    margin: 24px;
+
+}
+
+.span1 {
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+}
+
+.span2 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+    background-color: yellow;
+}
