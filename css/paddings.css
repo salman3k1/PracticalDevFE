@@ -1,0 +1,15 @@
+.heading-1 {
+    background-color: yellow;
+    padding: 1rem 2rem 3rem 4rem;
+}
+
+.span-container {
+    width: fit-content;
+}
+
+.span-1,
+.span-2 {
+    display: inline-block;
+    background-color: yellow;
+    padding: 1rem;
+}

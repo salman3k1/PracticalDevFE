@@ -1,0 +1,21 @@
+.heading-1 {
+    background-color: yellow;
+    /* margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem; */
+    margin: 1rem 2rem 3rem 4rem;
+}
+
+.span-container {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.span-1,
+.span-2 {
+    display: inline-block;
+    background-color: yellow;
+    margin: 1rem;
+}
