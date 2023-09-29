@@ -1,0 +1,46 @@
+.el {
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+
+.element1 {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    background-color: aqua;
+}
+
+.element2 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background-color: blueviolet;
+    color: white;
+}
+
+.element3 {
+    background-color: coral;
+    position: sticky;
+    top: 100px;
+    z-index: 1000;
+}
+
+.container1 {
+    position: relative;
+}
+
+.element4 {
+    background-color: brown;
+    color: white;
+    height: 800px;
+}
+
+.element5 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: chartreuse;
+    z-index: 1001;
+}
