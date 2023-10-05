@@ -1,0 +1,23 @@
+.element1 {
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+    font-size: 1.3rem;
+    background-color: yellow;
+}
+
+@media screen and (min-width: 768px) {
+
+    .element1 {
+        background-color: blue;
+    }
+
+}
+
+@media screen and (min-width: 800px) {
+
+    .element1 {
+        background-color: greenyellow;
+    }
+
+}
